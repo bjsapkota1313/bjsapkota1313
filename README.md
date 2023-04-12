@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bijay Sapkota</h1>
 <h3 align="center"> Studying IT  In Haarlem,Netherlands</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bijaysapkota/my-profile/main/images/profile-pic.jpg" alt="Bijay Sapkota" width="200" height="200">
-</p>
 
 <p align="center">I'm a second-year bachelor's student in Information Technology with a keen interest in backend development. I enjoy building scalable and efficient systems that power web applications. I'm proficient in a variety of programming languages, databases, and tools, and I'm always eager to learn new technologies to stay up-to-date with the latest industry trends.</p>
 
