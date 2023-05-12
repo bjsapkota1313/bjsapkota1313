@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bijay Sapkota</h1>
 <h3 align="center"> Studying IT  In Haarlem,Netherlands</h3>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript" hidden ></script>
 <p align="center">I'm a second-year bachelor's student in Information Technology with a keen interest in backend development. I enjoy building scalable and efficient systems that power web applications. I'm proficient in a variety of programming languages, databases, and tools, and I'm always eager to learn new technologies to stay up-to-date with the latest industry trends.</p>
 
 <h3 align="left">Connect with me:</h3>
