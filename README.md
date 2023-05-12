@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bijay Sapkota</h1>
 <h3 align="center"> Studying IT  In Haarlem,Netherlands</h3>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript" hidden ></script>
+
 <p align="center">I'm a second-year bachelor's student in Information Technology with a keen interest in backend development. I enjoy building scalable and efficient systems that power web applications. I'm proficient in a variety of programming languages, databases, and tools, and I'm always eager to learn new technologies to stay up-to-date with the latest industry trends.</p>
 
 <h3 align="left">Connect with me:</h3>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="bijay-sapkota-254044220" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/bijay-sapkota-254044220?trk=profile-badge">Bijay Sapkota</a></div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="left">
   <a href="https://linkedin.com/in/bijay-sapkota-254044220" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
